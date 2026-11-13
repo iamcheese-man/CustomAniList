@@ -109,6 +109,11 @@
             "name": "Lill q",
             "address": "https://anisette.lillq.me",
             "kind": 2
+        },
+        {
+            "name": "Zanisette",
+            "address": "http://zanisette.duckdns.org",
+            "kind": 0
         }
     ]
 }
